@@ -1,5 +1,4 @@
 <h1>Quote of the Day Generator</h1>
-<hr>
 <p>
  Welcome to the Quote of the Day Generator! 🌟 This simple yet powerful web app delivers daily doses of motivation with a fresh quote every time you reload the  
  page or click a button.
