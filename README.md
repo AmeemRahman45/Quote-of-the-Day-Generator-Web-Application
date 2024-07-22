@@ -93,3 +93,4 @@ displayNewQuote();: Calls the function to display a quote when the page loads.
         </pre>
     </li>
 </ol>
+<hr>
